@@ -1,4 +1,13 @@
-#这是存放HTML Demo 的地方
-Bootstrap ： 是 Bootstrap Demo
-Floriculture : 是关于PC端花艺的一个静态页面
-Community ： 是关于手机移动端的一个社区页面
+# HTML Demo
+
+#### Floriculture
+
+- 这是关于PC端花艺的一个网站Demo;
+
+#### Bootstrap
+
+- 这是关于Bootstrap响应式页面的Demo;
+
+#### Community
+
+- 这是关于移动端社区的网页App;
