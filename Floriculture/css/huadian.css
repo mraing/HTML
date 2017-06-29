@@ -1,0 +1,112 @@
+		.Perfectflowe{
+			width:100%;
+			/* height:1020px; */
+			/* background:yellow; */
+			padding-top:60px;
+			box-sizing:border-box;
+		}
+		.Perfectflowe>div:first-child{
+			width:100%;
+			/* height:230px; */
+			margin:0 auto;
+			text-align:center;
+			/* background:pink; */
+			padding:35px 0px;
+			box-sizing:border-box;
+		}
+		.Perfectflowemenu{
+			width:100%;
+			margin-bottom: 5%;
+			/* height:75%; */
+			/* background:blue; */
+			overflow:hidden;
+		}
+		.Perfectflowemenu>div{
+			width:20%;
+			/* height:50%; */
+			/* background:#FFC107; */
+			border-right:4px solid white;
+			
+			box-sizing:border-box;
+			float:left;
+		}
+		.Perfectflowemenu>div>img{
+			width:100%;
+		}
+		.Perfectflowe>div>p:first-child{
+			font-size:45px;
+			color:#f67a82;
+			line-height:90px;
+			background:#f1f1f1;
+		}
+		/* .Perfectflowe>div>p:last-child{
+			font-size:18px;
+			color:#8897a5;
+		} */
+		.huadianbtn{
+			overflow:hidden;
+			width:267px;
+			margin:2% auto;
+		}
+		.huadianbtn>a{
+			display:inline-block;
+			float:left;
+			padding:10px 18px;
+			border:1px solid #edf1f2;
+			background:white;
+			margin:0;
+		}
+		.huadianbtn>a:hover{
+			background:#f86867;
+			color:white;
+			transition:0.3s;
+			border:1px solid transparent;
+		}
+		.Perfectflowemenuspanover{
+			width:100%;
+			display:block;
+			color:black;
+			opacity:0.8;
+			position:absolute;
+			bottom:-100px;
+			line-height:100px;
+			text-align:center;
+			background:white;;
+			/* z-index:99; */
+			transition:0.5s;
+		}
+		.Perfectflowemenu>div:hover .Perfectflowemenuspanover{
+			bottom:0px;
+		}
+
+		/*花店*/
+		/* .lunboxiangqing:hover{
+			background:#fa7a7a;
+			color:white;
+			overflow:hidden;
+		} */
+		.Perfectflowemenu{
+			width:100%;
+			margin-bottom: 5%;
+			/* height:75%; */
+			/* background:blue; */
+			overflow:hidden;
+		}
+		
+		.Perfectflowemenu>div{
+			width:20%;
+			/* height:50%; */
+			/* background:#FFC107; */
+			border-right:4px solid white;
+			position:relative;
+			box-sizing:border-box;
+			float:left;
+		}
+
+		.Perfectflowemenu>div>img{
+			width:100%;
+		}
+		.Perfectflowemenu>div:hover .Perfectflowemenuspanover{
+			color:#19b1dc;
+			bottom:0px;
+		}

@@ -1,0 +1,43 @@
+body{
+	padding-top: 50px;
+	background-color: #fff;
+}
+.bgLeftBar{
+	height: 100%;
+	position: fixed;
+	top: 50px;
+	bottom: 0px;
+	padding-top: 20px;
+	background-color: #ddd;
+}
+.paddingTop{
+	padding-top: 20px;
+}
+.form-group .form-control{
+	width:  175px;
+}
+.paddingTop .list-group-item{
+	background-color: #ddd;
+	color: #428bca;
+}
+.paddingTop .list-group-item:hover{
+	color: #fff;
+	background-color: #428bca;	
+
+}
+.paddingTop .caozuoBottom{
+	margin-bottom: 20px;
+}
+.item2 .list-group-item{
+	background-color: #d9edf7;
+}
+.badgeFloat .badge{
+	float: right;
+	position: relative;
+}
+/*响应式设计*/
+	@media (max-width: 768px) {
+		.bgLeftBar {
+			position: static;
+		}
+/*!important*/

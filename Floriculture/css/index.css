@@ -1,0 +1,329 @@
+/*图片+文字*/
+		.huaer{
+			width:100%;
+			height:80%;
+			/* background:url(../images/nav1.png) no-repeat; */
+			b/* ackground-size: contain;
+			padding-top:20%; */
+			box-sizing:border-box;
+			position:relative;
+		}
+		.huaer>img{
+			width:100%;
+		}
+		.huaer>div{
+			/* width:35%;
+			height:20%; */
+			/* background:red; */
+			color:#303030;
+			margin:0 auto;
+			text-align:center;
+			position:absolute;
+			top:35%;
+			left:42%;
+		}
+		.huaer>div>p:first-child{
+			font-size:35px;
+		}
+		.huaer>div>p:last-child{
+			font-size:45px;
+		}
+		/*轮播*/
+		.navlunbo{
+			width:100%;
+			margin:0 auto;
+			overflow:hidden;
+			position:relative;
+			
+		}
+		.navlunbo>ul{
+			width:404%;
+			/* border:1px solid green; */
+			animation:play 30s linear 3s infinite;
+			/* overflow:hidden; */
+		}
+		.navlunbo>ul>li{
+			float:left;
+			width:25%;
+			transition:0.1s;
+		}
+		.navlunbo>ul>li>a>img{
+			vertical-align:bottom;
+			max-width:100%;
+		}
+		@keyframes play{
+			0%{
+				transform:translate(0);
+			}
+			5%{
+				transform:translate(-25%);
+			}
+			35%{
+				transform:translate(-25%);
+			}
+			40%{
+				transform:translate(-50%);
+			}
+			65%{
+				transform:translate(-50%);
+			}
+			70%{
+				transform:translate(-75%);
+			}
+			100%{
+				transform:translate(-75%);
+			}
+		}
+
+		/*完美花艺*/
+		.Perfectflowe{
+			width:100%;
+			/* height:1020px; */
+			/* background:yellow; */
+			padding-top:60px;
+			box-sizing:border-box;
+		}
+		.Perfectflowe>div:first-child{
+			width:80%;
+			/* height:230px; */
+			margin:0 auto;
+			text-align:center;
+			/* background:pink; */
+			padding:35px;
+			box-sizing:border-box;
+		}
+		.Perfectflowemenu{
+			width:100%;
+			margin-bottom: 5%;
+			/* height:75%; */
+			/* background:blue; */
+			overflow:hidden;
+		}
+		.Perfectflowemenu>div{
+			width:20%;
+			/* height:50%; */
+			/* background:#FFC107; */
+			border-right:4px solid white;
+			position:relative;
+			box-sizing:border-box;
+			float:left;
+		}
+		.Perfectflowemenu>div>img{
+			width:100%;
+		}
+		.Perfectflowe>div>p:first-child{
+			font-size:45px;
+			color:#4f5d64;
+			line-height:80px;
+		}
+		.Perfectflowe>div>p:last-child{
+			font-size:18px;
+			color:#8897a5;
+		}
+		/*婚礼策划*/
+		.dadiv{
+			background:#f5f5f5;
+			padding-top:35px;
+		}
+		.dadiv>div{
+			width:80%;
+			margin:0 auto;
+		}
+		.dadiv>div:first-child{
+			text-align:center;
+		}
+		.dadiv>div>p:first-child{
+			font-size:45px;
+			color:#4f5d64;
+			line-height:80px;
+		}
+		.dadiv>div>p:last-child{
+			font-size:18px;
+			color:#8897a5;
+		}
+		.lunbo{
+			width:1180px;
+			height:550px;
+			background:#f5f5f5;
+			margin:30px auto;
+			
+			box-sizing:border-box;
+		}
+		.lunbo>div{
+			width:393px;
+			height:500px;
+			float:left;
+			/* background:yellow; */
+			border:3px solid #f5f5f5;
+			padding:0px 10px;
+			box-sizing:border-box;
+		}
+		.lunbo>div>div{
+			width:300px;
+			height:300px;
+			margin:16px auto;
+			/* background:pink; */
+			border-radius:50%;	
+		}
+		.lunbobt{
+			text-align:center;
+			color:#384850;
+			margin:10px auto;
+			font-size:17px;
+		}
+		.lunboneir{
+			font-size:15px;
+		}
+		.lunboxiangqing{
+			display:block;
+			width:365px;
+			height:36px;
+			margin:18px auto;
+			background:#f96868;
+			text-align:center;
+			line-height:36px;
+			color:white;
+			border-radius:5px;
+		}
+		.bjs{
+			background:#f5f5f5;
+		}
+		.lunbotu1{
+			background:url(../images/lunbotu1.jpg) no-repeat 50% 50%;
+		}
+		.lunbotu2{
+			background:url(../images/lunbotu2.jpg) no-repeat 50% 50%;
+		}
+		.lunbotu3{
+			background:url(../images/lunbotu3.jpg) no-repeat 50% 50%;
+		}
+		}
+		/*花讯.婚礼*/
+		.huaxun{
+			width:100%;
+			height:770px;
+			/* background:#f5f5f5; */
+			padding-top:10px;
+			box-sizing:border-box;
+		}
+		.huaxun>div:first-child{
+			width:80%;
+			margin:0 auto;
+			text-align:center;
+		}
+		.huaxun>div>p:first-child{
+			font-size:45px;
+			color:#4f5d64;
+			line-height:80px;
+		}
+		.huaxun>div>p:last-child{
+			font-size:18px;
+			color:#8897a5;
+		}
+		.huaxunhunli{
+			width:1180px;
+			height:580px;
+			margin:40px auto;
+			/* background:pink; */
+		}
+		.huaxunhunli>div:first-child{
+			float:left;
+			width:49%;
+			height:580px;
+			/* background:blue; */
+		}
+		.huaxunhunli>div:last-child{
+			float:right;
+			width:49%;
+			height:580px;
+			/* background:blue; */
+		}
+		.huaxunhunli>div>div{
+			width:100%;
+			height:100px;
+			margin:35px auto;
+			/* background:yellow; */
+		}
+		.huaxunhunli>div>div>div{
+			width:150px;
+			height:96px;
+			float:left;
+			margin-right:10px;
+		}
+		/* .huaxunhunli>div>div>div>img{
+			border-radius:5px;
+			width:150px;
+		} */
+		.huaxunhunli>div>div>div>a>img{
+			border-radius:5px;
+			width:150px;
+		}
+		.huaxunhunli>div>div>div>a>img:hover{
+			box-shadow:0px 1px 5px 1px #a8a8a8;
+		}
+		.huaxunhunli>div>div>div>h4{
+			float:left;
+		}
+		.huaxunhunli>div>div>div>p{
+			font-size:10px;
+			float:left;
+		}
+		/*关于我们*/
+		.aboutwe{
+			width:100%;
+			height:1075px;
+			background:#f5f5f5;
+			padding:35px 0;
+			box-sizing:border-box;
+		}
+		.aboutwe>div:first-child{
+			width:80%;
+			margin:0 auto;
+			color:#37474f;
+			font-size:45px;
+			/* background:red; */
+			text-align:center;
+		}
+		.aboutwesec{
+			width:1180px;
+			height:860px;
+			background:#fff;
+			margin:50px auto;
+			padding:10px 50px;
+			box-sizing:border-box;
+		}
+		.aboutwesec>p{
+			text-align:center;
+			line-height:50px;
+			font-size:18px;
+			color:#424242;
+		}
+		/*完美花艺动效*/
+		.lunboxiangqing:hover{
+			background:#fa7a7a;
+			color:white;
+			overflow:hidden;
+		}
+		.Perfectflowemenuspanover{
+			width:100%;
+			display:block;
+			color:black;
+			opacity:0.8;
+			position:absolute;
+			bottom:-100px;
+			line-height:100px;
+			text-align:center;
+			background:white;;
+			/* z-index:99; */
+			transition:0.5s;
+		}
+		.Perfectflowemenu>div:hover .Perfectflowemenuspanover{
+			color:#19b1dc;
+			bottom:0px;
+		}
+		h4>a:hover{
+			color:#19b1dc;
+		}
+		.aboutusimghover:hover img{
+			box-shadow:0px 1px 10px 1px #c4c4c4;
+		}

@@ -1,0 +1,173 @@
+body{
+    background-color: #fafafa;
+    font-family: "微软雅黑";
+}
+div{
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    color: #565656;
+}
+a:hover, a:visited, a:link, a:active {
+    color: #565656;
+}
+img{
+    vertical-align: middle;
+}
+/*轮播图按钮*/
+.carousel-indicators li{
+    width: 7px;
+    height: 7px;
+}
+.carousel-indicators .active{
+    width: 8px;
+    height: 8px;
+}
+
+/*顶部半透明选项区*/
+.nav{
+    width: 100%;
+    height: 40px;
+    color: #fff;
+    background: linear-gradient(to bottom, rgba(0,0,0,0.7) 0%,rgba(0,0,0,0) 100%);
+    opacity: 0.4;
+    position: absolute;
+    top: 0;
+    z-index: 99;
+}
+.nav div{
+    line-height: 40px;
+    color: #fff;
+
+}
+.nav div a{
+    color: #fff;
+}
+.nav .navBar-left{
+    float: left;
+    padding-left: 15px;
+}
+.nav .navBar-right{
+    float: right;
+    padding-right: 15px;
+}
+.containersize{
+    padding: 0;
+}
+.lunboposition{
+    position: relative;
+}
+
+.imgsize .item img{
+    width: 100%;
+}
+
+/*导航栏选项*/
+.tab-nav{
+    width: 100%;
+    height: 192px;
+    padding: 25px 0 15px 0;
+    background-color: #fff;
+}
+.tab-child{
+    width: 100%;
+}
+.tab-child .tab-item{
+    width: 25%;
+    float: left;
+    text-align: center;
+}
+.tab-child .tab-item-p{
+    line-height: 30px;
+}
+.tab-child .tab-item .tab-item-imgSzie img{
+    width: 45px;
+    height: 45px;
+}
+
+/*广告*/
+.container-fluid .img-responsive{
+    margin-top: 15px;
+    background-color: #fafafa;
+}
+
+/*具体服务*/
+.service{
+    width: 100%;
+}
+.service-top{
+    background: #fff;
+    height: 100%;
+}
+.service-top>div{
+    width: 50%;
+    float: left;
+    background-color: #fff;
+}
+.service-top-left{
+    border-right: 1px solid #eeeeee;
+}
+.service-top-right{
+    height: 100%;
+}
+.service-top-right:first-child{
+    border-bottom: 1px solid #eeeeee;
+}
+.service-top-right div{
+    height: 50%;
+}
+
+/*具体项目推荐*/
+.recommended{
+    display: flex;
+    margin-top: 15px;
+    background-color: #fff;
+}
+.recommended-item{
+    flex: 1;
+}
+/*热门推荐*/
+.hot{
+    margin-top: 15px;
+    padding: 0 15px 15px 15px;
+    background-color: #fff;
+}
+.hot-title{
+    line-height: 40px;
+}
+.main{
+    text-align: center;
+}
+.main>div{
+    margin-bottom: 15px;
+}
+.hot-imgSize{
+    margin: auto;
+}
+/*查看全部服务*/
+.allService{
+    margin-top: 15px;
+    line-height: 45px;
+    text-align: center;
+    background-color: #fff;
+}
+/*底部导航栏*/
+.marginBotton{
+    width: 100%;
+    height: 70px;
+}
+.navBarColor{
+    background-color: #fff;
+}
+.navBarBotm{
+    height: 50px;
+    padding: 0 15px;
+
+}
+.navBarBotm>div{
+    width: 25%;
+    margin-top: 10px;
+    float: left;
+    text-align: center;
+}

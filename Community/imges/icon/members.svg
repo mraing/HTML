@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg t="1498653002863" class="icon" style="" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="3226" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25"><defs><style type="text/css">@font-face { font-family: SimSun; src: local("Source Han Sans SC"); }
+@font-face { font-family: 宋体; src: local("Source Han Sans SC"); }
+@font-face { font-family: NSimSun; src: local("Source Han Sans SC"); }
+@font-face { font-family: 新宋体; src: local("Source Han Sans SC"); }
+@font-face { font-family: SimHei; src: local("Source Han Sans SC"); }
+@font-face { font-family: 黑体; src: local("Source Han Sans SC"); }
+@font-face { font-family: "Microsoft YaHei"; src: local("Source Han Sans SC"); }
+@font-face { font-family: 微软雅黑; src: local("Source Han Sans SC"); }
+@font-face { font-family: "Microsoft YaHei UI"; src: local("Source Han Sans SC"); }
+@font-face { font-family: "STHeiti SC"; src: local("PingFang SC"); }
+@font-face { font-family: MingLiU; src: local("Source Han Sans TC"); }
+@font-face { font-family: MingLiU-ExtB; src: local("Source Han Sans TC"); }
+@font-face { font-family: MingLiU_HKSCS; src: local("Source Han Sans TC"); }
+@font-face { font-family: MingLiU_HKSCS-ExtB; src: local("Source Han Sans TC"); }
+@font-face { font-family: PMingLiU; src: local("Source Han Sans TC"); }
+@font-face { font-family: PMingLiU-ExtB; src: local("Source Han Sans TC"); }
+@font-face { font-family: "Microsoft JhengHei"; src: local("Source Han Sans TC"); }
+@font-face { font-family: 微軟正黑體; src: local("Source Han Sans TC"); }
+@font-face { font-family: "Microsoft JhengHei UI"; src: local("Source Han Sans TC"); }
+@font-face { font-family: "STHeiti TC"; src: local("PingFang TC"); }
+@font-face { font-family: Arial; src: local("Source Han Sans SC"); }
+@font-face { font-family: Tahoma; src: local("Source Han Sans SC"); }
+@font-face { font-family: Verdana; src: local("Source Han Sans SC"); }
+@font-face { font-family: Helvetica; src: local("Source Han Sans SC"); }
+@font-face { font-family: "Segoe UI"; src: local("Source Han Sans SC"); }
+@font-face { font-family: Courier; src: local("Source Code Pro"); }
+@font-face { font-family: "Courier New"; src: local("Source Code Pro"); }
+</style></defs><path d="M512.009721 130.818441c61.169151 0 116.568902 24.809035 156.680459 64.912405 40.102347 40.10644 64.908312 95.507214 64.908312 156.680459 0 61.169151-24.804942 116.593462-64.908312 156.680459-10.050913 10.045797-21.050432 19.12457-32.867572 27.095102 46.811142 17.70729 88.838328 45.12985 123.622552 79.812767 63.425541 63.283302 102.665241 150.630672 102.665241 247.021 0 16.650215-13.510712 30.16195-30.181393 30.16195-16.646122 0-30.156834-13.510712-30.156834-30.16195 0-79.860862-32.397874-152.120606-84.767616-204.354248C664.65119 606.455255 592.303442 574.108546 512.369925 574.004169l-0.361227 0-0.020466 0-0.344854 0c-79.966263 0.105401-152.312988 32.451086-204.649983 84.661192-52.369741 52.233642-84.766592 124.493385-84.766592 204.354248 0 16.650215-13.511735 30.16195-30.178323 30.16195-16.651238 0-30.160927-13.510712-30.160927-30.16195 0-96.389304 39.239699-183.737698 102.681614-247.021 34.751478-34.68394 76.778664-62.105476 123.589806-79.812767-11.800767-7.969509-22.800285-17.048281-32.847106-27.095102-40.090067-40.08802-64.895009-95.511307-64.895009-156.680459 0-61.173245 24.804942-116.574019 64.895009-156.680459C395.41626 155.627477 450.820104 130.818441 512.009721 130.818441L512.009721 130.818441 512.009721 130.818441zM626.018312 238.402715c-29.172413-29.173436-69.489654-47.246047-114.00859-47.246047-44.523029 0-84.856643 18.072611-114.029056 47.246047-29.172413 29.172413-47.241954 69.485561-47.241954 114.00859s18.068518 84.835154 47.241954 114.03008c29.086455 29.083385 69.278853 47.119157 113.663736 47.223534l0.344854 0 0.020466 0 0.344854 0c44.38079-0.105401 84.572164-18.141172 113.659643-47.223534 29.17753-29.193903 47.245024-69.50705 47.245024-114.03008S655.191748 267.575128 626.018312 238.402715L626.018312 238.402715zM626.018312 238.402715" p-id="3227" fill="#cccccc"></path></svg>
