@@ -1,0 +1,43 @@
+body{
+    background-color: #fff;
+}
+a{
+    text-decoration: none;
+    color: #565656;
+}
+a:hover, a:visited, a:link, a:active {
+    color: #565656;
+    text-decoration: none;
+}
+/*导航栏*/
+.nav{
+    width: 100%;
+    height: 50px;
+    background: #fdd100;
+    color: #e50146;
+    text-align: center;
+    font-size: 14pt;
+    padding: 0 15px;
+}
+.nav-title{
+    line-height: 50px;
+}
+.nav-img{
+    float: left;
+    line-height: 50px;
+}
+/*导航选项卡*/
+.li-tab{
+    width: 100%;
+    height: 42px;
+    line-height: 42px;
+    border-bottom: 1px solid #eee;
+}
+.li-tab>a{
+    width: 100%;
+    padding: 0 3%;
+    display: inline-block;
+}
+.nav-tab-img{
+    float: right;
+}

@@ -11,6 +11,7 @@ a{
 }
 a:hover, a:visited, a:link, a:active {
     color: #565656;
+    text-decoration: none;
 }
 img{
     vertical-align: middle;
